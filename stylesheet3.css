@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-image: url(flower.jpg);
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+.flowervideo{
+  padding-top: 50px;
+  padding-left: 170px;
+}

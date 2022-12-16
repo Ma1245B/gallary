@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-image: url(skates.webp);
+  background-size: cover;
+  height: 100vh;
+}
+.skatesvideo{
+  padding-top: 50px;
+  padding-left: 170px;
+}
